@@ -1,0 +1,44 @@
+[
+    {
+        "query": "what is phones",
+        "date": "2025-03-07 12:00:45",
+        "result": "A mobile phone, or cell phone, is a portable telephone that allows users to make and receive calls over a radio frequency link while moving within a designated telephone service area, unlike fixed-location phones (landline phones). This radio frequency link connects to the switching systems of a mobile phone operator, providing access to the public switched telephone network (PSTN). Modern mobile telephony relies on a cellular network architecture, which is why mobile phones are often referred to as 'cell phones' in North America.",
+        "related": [
+            "Mobile phone",
+            "Smartphone",
+            "IPhone"
+        ]
+    },
+    {
+        "query": "whats up",
+        "date": "2025-03-07 12:01:49",
+        "result": "Disambiguation error",
+        "options": [
+            "What'z Up?",
+            "What's Up (TV series)",
+            "WatsUp TV",
+            "Whassup?",
+            "V\u00eddeo Brinquedo"
+        ]
+    },
+    {
+        "query": "what is coal",
+        "date": "2025-03-07 12:01:58",
+        "result": "Page not found"
+    },
+    {
+        "query": "coal",
+        "date": "2025-03-07 12:02:08",
+        "result": "A col in geomorphology is the lowest point on a mountain ridge between two peaks. It may also be called a gap or pass. Particularly rugged and forbidding cols in the terrain are usually referred to as notches.",
+        "related": [
+            "Coal",
+            "Coal mining",
+            "Coal tit"
+        ]
+    },
+    {
+        "query": "what is mother ",
+        "date": "2025-03-07 12:02:21",
+        "result": "Page not found"
+    }
+]
